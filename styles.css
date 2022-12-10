@@ -84,3 +84,9 @@ p{
 .select{
   background-color: aqua;
 }
+
+@media screen and (max-width:400px){
+  main{
+    width:55%
+  }
+}
