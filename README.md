@@ -42,5 +42,4 @@ Users should be able to:
 
 
 ## Author
-
 - Hassan Akhtar
